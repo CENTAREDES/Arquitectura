@@ -19,6 +19,10 @@ http://docs.codenvy.com/che/install/
 #Eclipse-che Precompilado
 
 http://docs.codenvy.com/download/#eclipse-che-binaries
+
+#Eclipse RAP Docker
+
+https://registry.hub.docker.com/u/eclipsesource/eclipse-rap-demo/
 	
 #Instalacion de servicios:
 
