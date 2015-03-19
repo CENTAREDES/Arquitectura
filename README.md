@@ -1,8 +1,6 @@
 # Arquitectura
 
-Buenas,
-
-He estado comparando diferentes propuestas de cara a implementar una plantilla para la instalación del entorno de desarrollo remoto.
+Propuestas de cara a implementar una plantilla para la instalación del entorno de desarrollo remoto.
 ..........................................................
 #Instalación minima en la maquina necesitara:
 
