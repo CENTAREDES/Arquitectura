@@ -20,6 +20,10 @@ http://docs.codenvy.com/che/install/
 
 http://docs.codenvy.com/download/#eclipse-che-binaries
 
+#Dockerfile para la instalacion de eclipse-che
+
+https://gist.github.com/illan/27318e9345c5957f0aaa
+
 #Eclipse RAP Docker
 
 https://registry.hub.docker.com/u/eclipsesource/eclipse-rap-demo/
@@ -52,7 +56,9 @@ $ source /etc/bash_completion.d/docker.io
 # Instalacion sin apt
 $ curl -sSL https://get.docker.com/ubuntu/ | sudo sh
 ```
+# REST API para Docker
 
+http://docs.docker.com/reference/api/docker_remote_api/
 
 #Vincular una cuenta GitHub con DockerHub:
 
